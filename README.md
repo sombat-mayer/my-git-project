@@ -5,3 +5,4 @@
 ## I'm in the featured branch.
 
 > Another code change
+> Added to master
